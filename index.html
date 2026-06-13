@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz di Cultura Generale</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Quiz di Cultura Generale</h1>
+        
+        <!-- SCHERMATA INIZIALE / CONFIGURAZIONE -->
+        <div id="setup-screen" class="box">
+            <h2>Configura la Sessione</h2>
+            <p>Domande ancora da completare: <strong id="total-remaining">0</strong></p>
+            
+            <div class="input-group">
+                <label for="question-quantity">Quante domande vuoi affrontare in questa sessione?</label>
+                <input type="number" id="question-quantity" min="1" value="10">
+            </div>
+            
+            <button id="start-btn" class="btn primary">Avvia Sessione</button>
+            <button id="reset-all-btn" class="btn danger">Reset Totale Progressi</button>
+        </div>
+
+        <!-- SCHERMATA DEL QUIZ -->
+        <div id="quiz-screen" class="box hidden">
+            <div class="quiz-header">
+                <span id="progress-text">Domanda 1 di X</span>
+                <span id="session-remaining">Rimanenti in sessione: X</span>
+            </div>
+            
+            <div id="question-container">
+                <p id="question-text">Testo della domanda</p>
+                <div id="options-container" class="options-grid">
+                    <!-- I bottoni delle risposte verranno inseriti qui da JS -->
+                </div>
+            </div>
+            
+            <div id="feedback" class="feedback hidden"></div>
+            <button id="next-btn" class="btn primary hidden">Prossima Domanda</button>
+        </div>
+
+        <!-- SCHERMATA FINE SESSIONE -->
+        <div id="result-screen" class="box hidden">
+            <h2>Sessione Terminata!</h2>
+            <div class="stats">
+                <p>Risposte Corrette (Eliminate): <strong id="stats-correct">0</strong></p>
+                <p>Risposte Errate (Da ripetere): <strong id="stats-wrong">0</strong></p>
+            </div>
+            <p id="result-message">Pronto per il prossimo turno?</p>
+            <button id="restart-btn" class="btn primary">Continua con le Errate</button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

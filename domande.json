@@ -1,0 +1,2502 @@
+[
+  {
+    "id": 1,
+    "q": "Il simbolo chimico del Magnesio?",
+    "answers": [
+      "Mg",
+      "k",
+      "Pb",
+      "Se"
+    ]
+  },
+  {
+    "id": 2,
+    "q": "Quante sono le vertebre lombari nell'uomo?",
+    "answers": [
+      "5",
+      "4",
+      "7",
+      "3"
+    ]
+  },
+  {
+    "id": 3,
+    "q": "Il tricheco è possibile trovarlo:",
+    "answers": [
+      "in ambiente polare",
+      "nella savana",
+      "nella foresta tropicale",
+      "nella prateria"
+    ]
+  },
+  {
+    "id": 4,
+    "q": "Indicare tra questi animali quale non è un carnivoro?",
+    "answers": [
+      "Cervo",
+      "Corvo",
+      "Faina",
+      "Ghepardo"
+    ]
+  },
+  {
+    "id": 5,
+    "q": "Una stalagmite è:",
+    "answers": [
+      "Un deposito calcareo a forma di cono che si innalza dal pavimento",
+      "Una sorgente sotterranea termale",
+      "Un deposito silicico a forma di cono con punta verso l'alto",
+      "Un deposito calcareo a forma di cono con punta verso il basso"
+    ]
+  },
+  {
+    "id": 6,
+    "q": "Il termine OGM indica:",
+    "answers": [
+      "un organismo che possiede un patrimonio genetico modificato tramite tecniche di ingegneria genetica",
+      "un organismo il cui patrimonio genetico è il risultato di selezioni operate dall'uomo",
+      "il patrimonio genetico di un individuo",
+      "un individuo nato da genitori appartenenti a razze o specie diverse"
+    ]
+  },
+  {
+    "id": 7,
+    "q": "Indicare tra i seguenti cosa non fa parte dello scheletro umano.",
+    "answers": [
+      "Lingua",
+      "Rotula",
+      "Carpo",
+      "Scapola"
+    ]
+  },
+  {
+    "id": 8,
+    "q": "Il pianeta più vicino al Sole è:",
+    "answers": [
+      "Mercurio",
+      "Marte",
+      "Giove",
+      "Luna"
+    ]
+  },
+  {
+    "id": 9,
+    "q": "Lo scheletro svolge la funzione di:",
+    "answers": [
+      "Sostenere il corpo, proteggere alcuni organi interni e consentire il movimento",
+      "Sostenere la colonna vertebrale",
+      "Proteggere solo il cuore e il cervello",
+      "La testa, il tronco e gli arti"
+    ]
+  },
+  {
+    "id": 10,
+    "q": "Cosè la fusione?",
+    "answers": [
+      "il passaggio dallo stato solido a quello liquido",
+      "il passaggio dallo stato gassoso a quello liquido",
+      "il passaggio dallo stato gassoso a quello solido",
+      "il passaggio dallo stato liquido a quello solido"
+    ]
+  },
+  {
+    "id": 11,
+    "q": "Indicare tra questi animali quale non è un carnivoro?",
+    "answers": [
+      "Zebra",
+      "Gatto Selvatico",
+      "Leone",
+      "Ermellino"
+    ]
+  },
+  {
+    "id": 12,
+    "q": "Indicare tra questi animali quale non è un carnivoro?",
+    "answers": [
+      "Maiale",
+      "Lupo",
+      "Leone",
+      "Corvo"
+    ]
+  },
+  {
+    "id": 13,
+    "q": "Quale delle seguenti piante non produce fiori e frutti?",
+    "answers": [
+      "muschio",
+      "fagiolo",
+      "castagno",
+      "rosa"
+    ]
+  },
+  {
+    "id": 14,
+    "q": "Cos è la Luna?",
+    "answers": [
+      "un satellite",
+      "una galassia",
+      "un pianeta",
+      "una stella"
+    ]
+  },
+  {
+    "id": 15,
+    "q": "Indicare tra i seguenti quello che non fa parte dello scheletro umano.",
+    "answers": [
+      "Estensore ulnare del carpo",
+      "Falangi",
+      "Carpo",
+      "Tarso"
+    ]
+  },
+  {
+    "id": 16,
+    "q": "L'attrito volvente si genera:",
+    "answers": [
+      "quando un oggetto rotola su un altro",
+      "quando due oggetti strisciano uno sull'altro",
+      "quando due oggetti non strisciano",
+      "quando due oggetti urtano violentemente uno contro l'altro"
+    ]
+  },
+  {
+    "id": 17,
+    "q": "Quale delle seguenti è la caratteristica più affascinante di Saturno.",
+    "answers": [
+      "i famosi anelli planetari",
+      "pochissima luce",
+      "è il più pesante di tutti i pianeti",
+      "moltissima luce"
+    ]
+  },
+  {
+    "id": 18,
+    "q": "Indicare tra i seguenti quale non è un muscolo?",
+    "answers": [
+      "Clavicola",
+      "Pettorale",
+      "Trapezio",
+      "Bicipite"
+    ]
+  },
+  {
+    "id": 19,
+    "q": "Indicare tra i seguenti quale non fa parte dello scheletro umano.",
+    "answers": [
+      "Tricipite",
+      "Femore",
+      "Rotula",
+      "Malleolo"
+    ]
+  },
+  {
+    "id": 20,
+    "q": "Cos è lo Stomaco?",
+    "answers": [
+      "è un organo a forma di sacco e comunica con l'intestino attraverso il piloro",
+      "è un organo a forma di sacco che non comunica con l'intestino",
+      "non è un organo",
+      "è un organo a forma di cuore e comunica con l'intestino attraverso il piloro"
+    ]
+  },
+  {
+    "id": 21,
+    "q": "I non metalli:",
+    "answers": [
+      "si trovano allo stato solido, liquido e aeriforme",
+      "non si trovano allo stato solido, liquido e aeriforme",
+      "non esistono",
+      "si trovano solo ed esclusivamente allo stato aeriforme"
+    ]
+  },
+  {
+    "id": 22,
+    "q": "Il mammifero più veloce è:",
+    "answers": [
+      "il Ghepardo",
+      "il Coccodrillo",
+      "la Giraffa",
+      "il Rinoceronte"
+    ]
+  },
+  {
+    "id": 23,
+    "q": "Cos è il Systema Solare?",
+    "answers": [
+      "un insieme di corpi celesti in rotazione attorno al Sole",
+      "un insieme di corpi celesti in rotazione attorno alla Luna",
+      "un insieme di corpi celesti in rotazione attorno alla Terra",
+      "un insieme di corpi celesti in rotazione attorno a Giove"
+    ]
+  },
+  {
+    "id": 24,
+    "q": "Indicare qual è l'animale oviparo.",
+    "answers": [
+      "Tartaruga",
+      "Scimmia",
+      "Balena",
+      "Pipistrello"
+    ]
+  },
+  {
+    "id": 25,
+    "q": "Indicare tra i seguenti quale non è un muscolo?",
+    "answers": [
+      "Carpo",
+      "Bicipite femorale",
+      "Soleo",
+      "Gemello mediale"
+    ]
+  },
+  {
+    "id": 26,
+    "q": "Quale dei seguenti attori nel 2018 ha vinto il Golden Globe nella categoria \"miglior attore in un film drammatico\"?",
+    "answers": [
+      "Gary Oldman",
+      "Tom Hanks",
+      "Denzel Washington",
+      "Timothée Chalamet"
+    ]
+  },
+  {
+    "id": 27,
+    "q": "Di quale cantante italiana è il brano \"Oronero\"?",
+    "answers": [
+      "Giorgia",
+      "Alessandra Amoroso",
+      "Elisa",
+      "Emma Marrone"
+    ]
+  },
+  {
+    "id": 28,
+    "q": "Alcuni animali subiscono la metamorfosi come la farfalla, indicare quale dei seguenti è uno di questi.",
+    "answers": [
+      "Le rane",
+      "I mammiferi",
+      "Le galline",
+      "I topi"
+    ]
+  },
+  {
+    "id": 29,
+    "q": "Indicare l' animale che non è un mammifero?",
+    "answers": [
+      "Pettirosso",
+      "Porcellino d'india",
+      "Ippopotamo",
+      "Gatto"
+    ]
+  },
+  {
+    "id": 30,
+    "q": "In un metallo la Durezza Brinell (HB) è:",
+    "answers": [
+      "differentere per ogni metallo",
+      "uguale per ogni metallo",
+      "inesistente",
+      "il suo punto di fusione"
+    ]
+  },
+  {
+    "id": 31,
+    "q": "Indicare tra i seguenti l' animale invertebrato.",
+    "answers": [
+      "Sanguisuga",
+      "Toro",
+      "Giraffa",
+      "Pesce"
+    ]
+  },
+  {
+    "id": 32,
+    "q": "I Nervi Spinali fanno parte del sistema nervoso volontario?",
+    "answers": [
+      "si",
+      "a volte",
+      "no",
+      "sono nervi che fanno parte del sistema nervoso involontario"
+    ]
+  },
+  {
+    "id": 33,
+    "q": "L'urea viene rimossa:",
+    "answers": [
+      "dai Reni",
+      "dalla Milza",
+      "dal Fegato",
+      "dalla bile"
+    ]
+  },
+  {
+    "id": 34,
+    "q": "L' apparato circolatorio dei mammiferi è:",
+    "answers": [
+      "Con il cuore diviso in quattro cavità e quindi circolazione doppia e completa",
+      "non hanno apparato circolatorio sono eterotermi",
+      "Hanno il cuore diviso in due cavità",
+      "hanno una sola vena centrale"
+    ]
+  },
+  {
+    "id": 35,
+    "q": "Che tipo di trasformazione si realizza nel processo di fotosintesi?",
+    "answers": [
+      "L' anidride carbonica e acqua si trasformano in glucosio e ossigeno",
+      "Il glucosio e ossigeno si trasformano in acqua e anidride carbonica",
+      "L' anidride carbonica e acqua si trasformano in lipidi e ossigeno",
+      "L' anidride carbonica e acqua si trasformano in proteine e ossigeno"
+    ]
+  },
+  {
+    "id": 36,
+    "q": "Un corpo fermo per il principio d'inerzia:",
+    "answers": [
+      "resta fermo",
+      "inizia a muoversi",
+      "continua a muoversi",
+      "si muove con moto accelerato"
+    ]
+  },
+  {
+    "id": 37,
+    "q": "Di quale sistema nervoso fa parte il telencefalo?",
+    "answers": [
+      "centrale",
+      "periferico",
+      "del diencefalo",
+      "del tronco dell'encefalo"
+    ]
+  },
+  {
+    "id": 38,
+    "q": "Nel mare quale delle seguenti sostanze saline è maggiormente contenuta?",
+    "answers": [
+      "Cloruro di sodio",
+      "Fosfato",
+      "Nitrato",
+      "Zolfo"
+    ]
+  },
+  {
+    "id": 39,
+    "q": "Cos è il pinguino?",
+    "answers": [
+      "Un uccello",
+      "Un pesce",
+      "Un rettile marino",
+      "Un mammifero marino"
+    ]
+  },
+  {
+    "id": 40,
+    "q": "Il simbolo chimico dell'Arsenico è:",
+    "answers": [
+      "As",
+      "Ag",
+      "Ne",
+      "He"
+    ]
+  },
+  {
+    "id": 41,
+    "q": "La massa della Luna è:",
+    "answers": [
+      "circa l'1% di quella della Terra",
+      "circa il 50% della massa della Terra",
+      "circa il 10% di quella del Sole",
+      "circa il 15% della massa della Terra"
+    ]
+  },
+  {
+    "id": 42,
+    "q": "Alcuni metalli hanno una proprietà detta sfaldatura, di cosa si tratta?",
+    "answers": [
+      "Di rompersi in particolari modi seguendo la loro forma geometrica",
+      "Di fondersi con altri minerali",
+      "Di unirsi con altri minerali",
+      "Di separasi da altri minerali"
+    ]
+  },
+  {
+    "id": 43,
+    "q": "Quale tra le seguenti strutture non fa parte dell'apparato uditivo?",
+    "answers": [
+      "L'esofago",
+      "La staffa",
+      "La chiocciola",
+      "Il martello"
+    ]
+  },
+  {
+    "id": 44,
+    "q": "Il nervo sciatico parte:",
+    "answers": [
+      "Dal plesso sacrale",
+      "Dalla mano",
+      "Dal cervello",
+      "Dal tallone"
+    ]
+  },
+  {
+    "id": 45,
+    "q": "Di quale apparato fa parte l'esofago?",
+    "answers": [
+      "digerente",
+      "endocrino",
+      "circolatorio",
+      "respiratorio"
+    ]
+  },
+  {
+    "id": 46,
+    "q": "Quale tra i seguenti animali è un aracnide?",
+    "answers": [
+      "Il ragno",
+      "La tigre",
+      "Il lombrico",
+      "La trota"
+    ]
+  },
+  {
+    "id": 47,
+    "q": "Il simbolo chimico dello Zolfo è:",
+    "answers": [
+      "S",
+      "Zo",
+      "Na",
+      "Cl"
+    ]
+  },
+  {
+    "id": 48,
+    "q": "Quale animale non fa parte della classe degli anfibi?",
+    "answers": [
+      "La lucertola",
+      "La salamandra",
+      "Il rospo",
+      "La raganella"
+    ]
+  },
+  {
+    "id": 49,
+    "q": "Indicare quale di queste è una proprietà dell'acqua pura.",
+    "answers": [
+      "E' un solvente per molte sostanze",
+      "E' leggermente più acida dell'aria",
+      "La sua fase solida è più densa della fase liquida",
+      "Ha una bassa capacità di assorbire calore"
+    ]
+  },
+  {
+    "id": 50,
+    "q": "Il ragno è:",
+    "answers": [
+      "un artropode",
+      "un echinoderma",
+      "un porifero",
+      "un celenterato"
+    ]
+  },
+  {
+    "id": 51,
+    "q": "Indicare l' animali che fa parte degli invertebrati.",
+    "answers": [
+      "Pulce",
+      "Gatto",
+      "Scimmia",
+      "Toro"
+    ]
+  },
+  {
+    "id": 52,
+    "q": "Se un atleta percorre 100m in 10s, quale sarà la velocità media?",
+    "answers": [
+      "10 m/s",
+      "15 m/s",
+      "105 m/s",
+      "17 m/s"
+    ]
+  },
+  {
+    "id": 53,
+    "q": "Il simbolo chimico del Ferro è:",
+    "answers": [
+      "Fe",
+      "Fr",
+      "Fl",
+      "F"
+    ]
+  },
+  {
+    "id": 54,
+    "q": "Qual è la caratteristica principale della tundra?",
+    "answers": [
+      "l'assenza di alberi",
+      "l'elevata presenza di alberi",
+      "l'elevata presenza di vegetazione",
+      "l'elevata presenza di alberi secolari"
+    ]
+  },
+  {
+    "id": 55,
+    "q": "Indicare tra questi animali qual è un erbivoro.",
+    "answers": [
+      "Antilope",
+      "Tigre",
+      "Leone",
+      "Coccodrillo"
+    ]
+  },
+  {
+    "id": 56,
+    "q": "Dove si sono tenute le Olimpiadi 2016?",
+    "answers": [
+      "In Brasile",
+      "In Italia",
+      "In Inghilterra",
+      "In Grecia"
+    ]
+  },
+  {
+    "id": 57,
+    "q": "Indicare l' animali che non è un carnivoro.",
+    "answers": [
+      "Elefante",
+      "Pipistrello",
+      "Ghepardo",
+      "Giaguaro"
+    ]
+  },
+  {
+    "id": 58,
+    "q": "Quale film di animazione ha vinto il Golden Globe nel 2018?",
+    "answers": [
+      "Coco",
+      "Baby Boss",
+      "Inside Out",
+      "Loving Vincent"
+    ]
+  },
+  {
+    "id": 59,
+    "q": "Come si intitola la serie ispirata alla vita della celebre Regina Elisabetta II?",
+    "answers": [
+      "The Crown",
+      "Royal",
+      "The Queen",
+      "Elizabeth"
+    ]
+  },
+  {
+    "id": 60,
+    "q": "Quale tra le seguenti linee aeree è tedesca?",
+    "answers": [
+      "Lufthansa",
+      "Lauda Air",
+      "Swissair",
+      "KLM"
+    ]
+  },
+  {
+    "id": 61,
+    "q": "Dove ha sede la BBC?",
+    "answers": [
+      "Londra",
+      "California",
+      "New York",
+      "Washington"
+    ]
+  },
+  {
+    "id": 62,
+    "q": "Cos'è il Giubileo?",
+    "answers": [
+      "È l'anno della remissione dei peccati, della riconciliazione, della conversione e della penitenza sacramentale",
+      "È la cerimonia religiosa per riconciliarsi con le altre religioni",
+      "È l'anno in cui i fedeli cristiani e protestanti possono confessare personalmente al Papa o ai suoi cardinali i propri peccati",
+      "È la festa dei giovani che indice annualmente il Papa"
+    ]
+  },
+  {
+    "id": 63,
+    "q": "Entro quanti giorni dalla sua pubblicazione un decreto legge può essere convertito in legge dalle Camere?",
+    "answers": [
+      "60 giorni",
+      "30 giorni",
+      "80 giorni",
+      "90 giorni"
+    ]
+  },
+  {
+    "id": 64,
+    "q": "Cosa sono le elezioni di \"midterm\" in America:",
+    "answers": [
+      "Le elezioni di metà mandato",
+      "Le elezioni che precedono di 4 mesi il mandato",
+      "Le elezioni che precedono di 2 mesi il mandato",
+      "Le elezioni che precedono di 6 mesi il mandato"
+    ]
+  },
+  {
+    "id": 65,
+    "q": "Quale tra i seguenti artisti viene denominato \"Duca bianco\"?",
+    "answers": [
+      "David Bowie",
+      "Sting",
+      "George Michael",
+      "Bono"
+    ]
+  },
+  {
+    "id": 66,
+    "q": "In quale giorno si è verificata la Valanga che ha travolto l'Hotel \"Rigopiano-Gran Sasso Resort\", nella quale hanno perso la vita 29 persone?",
+    "answers": [
+      "18 Gennaio 2017",
+      "13 Gennaio 2017",
+      "18 Dicembre 2016",
+      "30 Gennaio 2016"
+    ]
+  },
+  {
+    "id": 67,
+    "q": "In che giorno è morto Papa Francesco?",
+    "answers": [
+      "21 aprile 2025",
+      "20 aprile 2025",
+      "25 aprile 2025",
+      "1° aprile 2025"
+    ]
+  },
+  {
+    "id": 68,
+    "q": "Qual è la protagonista del celebre film \"Colazione da Tiffany\"?",
+    "answers": [
+      "Audrey Hepburn",
+      "Sophia Loren",
+      "Brigitte Anne Marie Bardot",
+      "Liz Taylor"
+    ]
+  },
+  {
+    "id": 69,
+    "q": "In quale delle seguenti città si svolge ogni anno la \"Fiera Internazionale del Libro\"?",
+    "answers": [
+      "Torino",
+      "Milano",
+      "Roma",
+      "Palermo"
+    ]
+  },
+  {
+    "id": 70,
+    "q": "Il progetto MOSE di Venezia consiste:",
+    "answers": [
+      "Nella costruzione di un sistema di barriere mobili per impedire alle maree di sommergere il centro della cittadina",
+      "Nella costruzione di una centrale idroelettrica",
+      "Nel progetto di reconstruction dei più importanti monumenti",
+      "Nella costruzione di una gigantesca idrovore per contrastare l'acqua alta"
+    ]
+  },
+  {
+    "id": 71,
+    "q": "Quale film italiano ha vinto l'Oscar nel 2014 nella categoria \"Miglior film straniero\"?",
+    "answers": [
+      "La grande bellezza",
+      "La vita è bella",
+      "La pazza gioia",
+      "Il capitale umano"
+    ]
+  },
+  {
+    "id": 72,
+    "q": "Nel 2025 c'è stata la commemorazione del 33° anniversario di quale evento?",
+    "answers": [
+      "Stragi dei giudici Falcone e Borsellino",
+      "Caduta del muro di Berlino",
+      "Fine dell'Apartheid",
+      "Attacco alle Torri Gemelle"
+    ]
+  },
+  {
+    "id": 73,
+    "q": "La LucasFilm Ltd. da quale grande azienda dei media è stata acquistata nel 2012?",
+    "answers": [
+      "The Walt Disney Company",
+      "Samsung",
+      "DreamWorks",
+      "Warner Bros"
+    ]
+  },
+  {
+    "id": 74,
+    "q": "One of the following organizations celebrated its 60th anniversary in 2018. Which one?",
+    "answers": [
+      "Nasa",
+      "Unicef",
+      "Medici senza frontiere",
+      "Telefono rosa"
+    ]
+  },
+  {
+    "id": 75,
+    "q": "Quale club calcistico ha vinto il campionato 2023-2024.",
+    "answers": [
+      "Inter",
+      "Napoli",
+      "Milan",
+      "Roma"
+    ]
+  },
+  {
+    "id": 76,
+    "q": "In quale anno venne eletto presidente della Repubblica francese Emmanuel Macron?",
+    "answers": [
+      "2017",
+      "2016",
+      "2013",
+      "2014"
+    ]
+  },
+  {
+    "id": 77,
+    "q": "Un servizio informatico on line che permette la realizzazione di reti sociali virtuali, viene indicato con il termine:",
+    "answers": [
+      "Social network",
+      "Social design",
+      "Social line",
+      "Social core"
+    ]
+  },
+  {
+    "id": 78,
+    "q": "Il 20 Novembre 2016 terminò uno straordinario Giubileo, quale?",
+    "answers": [
+      "Il Giubileo della misericordia",
+      "Il Giubileo del Cuore di Gesù",
+      "Il Giubileo del buon pastore",
+      "Il Giubileo del cuore immacolato di Maria"
+    ]
+  },
+  {
+    "id": 79,
+    "q": "Chi fu il presidente della Commissione europea rimasto in carica fino ad ottobre 2019?",
+    "answers": [
+      "Jean-Claude Juncker",
+      "Enzo Braghi",
+      "José Barroso",
+      "Manuel Marín"
+    ]
+  },
+  {
+    "id": 80,
+    "q": "Qual è il nome della moglie di William, principe del Galles?",
+    "answers": [
+      "Catherine Middleton",
+      "Chelsy Davy",
+      "Meghan Markle",
+      "Diana Spencer"
+    ]
+  },
+  {
+    "id": 81,
+    "q": "La sede della Banca Centrale Europea (BCE) è nella città di:",
+    "answers": [
+      "Francoforte",
+      "Milano",
+      "Berlino",
+      "Verona"
+    ]
+  },
+  {
+    "id": 82,
+    "q": "Con l'appellativo \"Papa emerito\" ci si rivolge a:",
+    "answers": [
+      "Papa Benedetto XVI",
+      "Papa Giovanni Paolo II",
+      "Papa Francesco I",
+      "Papa Bonifacio VIII"
+    ]
+  },
+  {
+    "id": 83,
+    "q": "L'informazione genetica si trova depositata:",
+    "answers": [
+      "nei cromosomi",
+      "nei liposomi",
+      "nei lisosomi",
+      "nel pancreas"
+    ]
+  },
+  {
+    "id": 84,
+    "q": "Con il kilowattora si misura:",
+    "answers": [
+      "un'energia",
+      "una forza",
+      "una potenza",
+      "un'accelerazione"
+    ]
+  },
+  {
+    "id": 85,
+    "q": "Quale tra i seguenti è un muscolo involontario.",
+    "answers": [
+      "Il cuore",
+      "Il tibiale",
+      "Il bicipite",
+      "Il tricipite"
+    ]
+  },
+  {
+    "id": 86,
+    "q": "Nel settembre del 2022 la Cina è stata testimone di un primato, a livello scientifico, ovvero:",
+    "answers": [
+      "è stato clonato il primo lupo artico, Maya",
+      "è stata clonata la prima cavalla, Xion-Li",
+      "è stata ricostruita la mascella di un bambino deforme alla nascita",
+      "è stata scoperta la cellula \"EL\""
+    ]
+  },
+  {
+    "id": 87,
+    "q": "Quanti anni dura la carica di presidente della BCE?",
+    "answers": [
+      "8",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+  {
+    "id": 88,
+    "q": "Indicare l' animali che è un erbivoro?",
+    "answers": [
+      "Porcospino",
+      "Faina",
+      "Iena",
+      "Lince"
+    ]
+  },
+  {
+    "id": 89,
+    "q": "Quale squadra di calcio ha vinto la Champions League 2016-2017?",
+    "answers": [
+      "Real Madrid",
+      "Juventus",
+      "Paris Saint-Germain",
+      "Barcellona Fc"
+    ]
+  },
+  {
+    "id": 90,
+    "q": "Quale squadra ha vinto il Campionato italiano di calcio Serie A 2016-2017?",
+    "answers": [
+      "Juventus",
+      "Fiorentina",
+      "Roma",
+      "Napoli"
+    ]
+  },
+  {
+    "id": 91,
+    "q": "Chi interpreta la figura di Papa Pio XIII, protagonista nella celebre serie \"The Young Pope\"?",
+    "answers": [
+      "Jude Law",
+      "Tom Hardy",
+      "Scott Sheperd",
+      "Silvio Orlando"
+    ]
+  },
+  {
+    "id": 92,
+    "q": "Dove avviene la consegna annuale dei premi Oscar?",
+    "answers": [
+      "Los Angeles",
+      "New York",
+      "Orlando",
+      "Las Vegas"
+    ]
+  },
+  {
+    "id": 93,
+    "q": "Il 17 dicembre 2016 Papa Francesco quanti anni ha compiuto?",
+    "answers": [
+      "80",
+      "60",
+      "70",
+      "75"
+    ]
+  },
+  {
+    "id": 94,
+    "q": "Chi ha vinto l'Oscar 2017 nella categoria \"migliore attrice protagonista\"?",
+    "answers": [
+      "Emma Stone",
+      "Natalie Portman",
+      "Dakota Johnson",
+      "Isabelle Huppert"
+    ]
+  },
+  {
+    "id": 95,
+    "q": "Chi è stato eletto Sindaco di Roma il 21 ottobre 2021?",
+    "answers": [
+      "Roberto Gualtieri",
+      "Gianni Alemanno",
+      "Mario Monti",
+      "Angelino Alfano"
+    ]
+  },
+  {
+    "id": 96,
+    "q": "Il 27 giugno 2016 a Roma è morto l'attore, nonché nuotatore e pallanuotista italiano Carlo Pedersoli, meglio conosciuto come:",
+    "answers": [
+      "Bud Spencer",
+      "Arnoldo Foà",
+      "Vittorio De Sica",
+      "Aldo Fabrizi"
+    ]
+  },
+  {
+    "id": 97,
+    "q": "Qual è il titolo del film spin-off della celebre saga di Harry Potter, uscito nelle sale nel 2016?",
+    "answers": [
+      "Animali fantastici e dove trovarli",
+      "Animali fantastici",
+      "Animali fantastici e come trovarli",
+      "Animali fantastici e dove cercarli"
+    ]
+  },
+  {
+    "id": 98,
+    "q": "Chi alla data di gennaio 2018 ricopriva la carica di Sindaco di Napoli?",
+    "answers": [
+      "Luigi De Magistris",
+      "Luigi Di Maio",
+      "Rosa Russo Iervolino",
+      "Gianni Lettieri"
+    ]
+  },
+  {
+    "id": 99,
+    "q": "Quale atleta italiano ha vinto l'oro nel nuoto alle Olimpiadi 2016?",
+    "answers": [
+      "Gregorio Paltrinieri",
+      "Diana Bacosi",
+      "Niccolò Campriani",
+      "Daniele Garozzo"
+    ]
+  },
+  {
+    "id": 100,
+    "q": "Cos'è il \"Cammino di Santiago di Compostela\"?",
+    "answers": [
+      "Percorso che i pellegrini intraprendono, attraverso la Francia e la Spagna, per giungere al santuario di Santiago di Compostela",
+      "Percorso che i pellegrini compiono tra il Portogallo e la Spagna, per giungere al santuario di Santiago di Compostela",
+      "Percorso che i pellegrini compiono, attraverso la Svizzera e la Francia per arrivare al santuario di Santiago di Compostela",
+      "Percorso che i pellegrini protestanti compiono per arrivare in Portogallo"
+    ]
+  },
+  {
+    "id": 101,
+    "q": "Chi era nel 2017 il presidente della Banca Centrale Europea?",
+    "answers": [
+      "Mario Draghi",
+      "Christian Noyer",
+      "Wim Duisenberg",
+      "Mario Monti"
+    ]
+  },
+  {
+    "id": 102,
+    "q": "Tra le opzioni di risposta, quale riporta il nome della capitale mondiale in cui si è svolto il G20, nell'ottobre del 2022?",
+    "answers": [
+      "Bali",
+      "Parigi",
+      "Hong Kong",
+      "Amburgo"
+    ]
+  },
+  {
+    "id": 103,
+    "q": "Quale importante quotidiano si è aggiudicato il premio Pulitzer in tre categorie nel 2017?",
+    "answers": [
+      "New York Times",
+      "TIME",
+      "La Repubblica",
+      "Wall Street Journal"
+    ]
+  },
+  {
+    "id": 104,
+    "q": "Qual è stata la squadra vincitrice degli Europei di calcio nel 2016?",
+    "answers": [
+      "Portogallo",
+      "Italia",
+      "Germania",
+      "Inghilterra"
+    ]
+  },
+  {
+    "id": 105,
+    "q": "Nel 2025 è stata la capitale italiana della cultura?",
+    "answers": [
+      "Gorizia",
+      "Ginevra",
+      "Monaco",
+      "Parigi"
+    ]
+  },
+  {
+    "id": 106,
+    "q": "Quale città fra le seguenti il 24 agosto 2016 è stata colpita dal terremoto?",
+    "answers": [
+      "Amatrice",
+      "Matera",
+      "Napoli",
+      "Potenza"
+    ]
+  },
+  {
+    "id": 107,
+    "q": "Qual è l'evento sportivo più importante dell'anno negli Stati Uniti d'America?",
+    "answers": [
+      "Super Bowl",
+      "Finale del canto a cappella",
+      "MBA",
+      "Finale di nuoto americano"
+    ]
+  },
+  {
+    "id": 108,
+    "q": "A chi appartiene la celebre frase \"non ho paura della cattiveria dei malvagi, ma del silenzio degli onesti\"?",
+    "answers": [
+      "Martin Luther King",
+      "Steve Jobs",
+      "Mark Zuckerberg",
+      "Mahatma Gandhi"
+    ]
+  },
+  {
+    "id": 109,
+    "q": "Quale famoso politico coniò il motto \"Yes, we can\"?",
+    "answers": [
+      "Barack Obama",
+      "Matteo Renzi",
+      "Angela Merkel",
+      "Hillary Clinton"
+    ]
+  },
+  {
+    "id": 110,
+    "q": "Qual è la sede centrale della Banca d'Italia?",
+    "answers": [
+      "Roma",
+      "Milano",
+      "Torino",
+      "Firenze"
+    ]
+  },
+  {
+    "id": 111,
+    "q": "Quale dei seguenti videogiochi, basato su realtà geolocalizzata con GPS, è stato un vero e proprio fenomeno virale, che ha coinvolto molti giovani di molti Paesi su scala internazionale?",
+    "answers": [
+      "Pokemon go",
+      "Candy Crash saga",
+      "Angry birds",
+      "Temple run"
+    ]
+  },
+  {
+    "id": 112,
+    "q": "Il 22 Maggio 2017 c'è stato un attentato suicida alla Manchester Arena, al termine del concerto di quale cantante?",
+    "answers": [
+      "Ariana Grande",
+      "Madonna",
+      "Britney Spears",
+      "Sia"
+    ]
+  },
+  {
+    "id": 113,
+    "q": "Come si chiama l'autore dei romanzi che ha ispirato la serie Tv \"Il trono di Spade\"?",
+    "answers": [
+      "George R. R. Martin",
+      "Terry Brooks",
+      "Ken Follett",
+      "Nicholas Sparks"
+    ]
+  },
+  {
+    "id": 114,
+    "q": "Qual è la più importante agenzia di stampa italiana?",
+    "answers": [
+      "ANSA",
+      "Italpress",
+      "DIRE",
+      "Il Sole 24 ORE"
+    ]
+  },
+  {
+    "id": 115,
+    "q": "Chi è stato eletto Presidente Degli Stati Uniti d'America il giorno 8 novembre 2016?",
+    "answers": [
+      "Donald Trump",
+      "Hillary Clinton",
+      "Barack Obama",
+      "Bernard Sanders"
+    ]
+  },
+  {
+    "id": 116,
+    "q": "Tra i seguenti esseri viventi marini, qual è un crostaceo?",
+    "answers": [
+      "Astice",
+      "Cozze",
+      "Vongole",
+      "Ostriche"
+    ]
+  },
+  {
+    "id": 117,
+    "q": "Cosa si intende per \"effetto serra\"?",
+    "answers": [
+      "Il riscaldamento della superficie terrestre dovuto all'azione di alcuni gas presenti in atmosfera",
+      "Il raffredamento della superficie terrestre dovuto al buco nello strato di ozono",
+      "Il riscaldamento della superficie terrestre dovuto all'eccessivo disboscamento",
+      "Il raffreddamento della superficie terrestre dovuto alla diminuzione di anidride carbonica"
+    ]
+  },
+  {
+    "id": 118,
+    "q": "La \"Grande Macchia Rossa\" si trova su:",
+    "answers": [
+      "Giove",
+      "Saturnocompo",
+      "Terra",
+      "Urano"
+    ]
+  },
+  {
+    "id": 119,
+    "q": "Cosa indica l'inerzia?",
+    "answers": [
+      "La tendenza di un corpo a mantenere il proprio stato",
+      "La tendenza di un corpo a rimanere accelerato",
+      "La tendenza di un corpo a cambiare stato",
+      "La tendenza di un corpo a cambiare direzione"
+    ]
+  },
+  {
+    "id": 120,
+    "q": "Quale tra questi personaggi italiani ha ottenuto, nel 2016, la sua \"stella\" nella celebre Walk of Fame\"?",
+    "answers": [
+      "Ennio Morricone",
+      "Gabriele Muccino",
+      "Vittorio De Sica",
+      "Luciano Pavarotti"
+    ]
+  },
+  {
+    "id": 121,
+    "q": "L'azienda Netflix, operante nella distribuzione internet di film, serie televisive e altri contenuti d'intrattenimento è nata in quale anno:",
+    "answers": [
+      "1997",
+      "1996",
+      "2000",
+      "1998"
+    ]
+  },
+  {
+    "id": 122,
+    "q": "Indicare tra i seguenti quale non è un muscolo?",
+    "answers": [
+      "Tarso",
+      "Lungo supinatore",
+      "Quadricipite",
+      "Bicipite brachiale"
+    ]
+  },
+  {
+    "id": 123,
+    "q": "Quale tra i seguenti personaggi è considerato fondatore dell'organizzazione terroristica Al-Qaida?",
+    "answers": [
+      "Osama Bin Laden",
+      "Saddam Hussein",
+      "Yasser Arafat",
+      "Ahmad al-Shuqayrī"
+    ]
+  },
+  {
+    "id": 124,
+    "q": "Cosa sono i lagomorfi?",
+    "answers": [
+      "Dei mammiferi",
+      "Dei rettili",
+      "Dei molluschi",
+      "Dei erbivori"
+    ]
+  },
+  {
+    "id": 125,
+    "q": "Il Tevere scorre :",
+    "answers": [
+      "nelle regioni del Lazio, Umbria, Toscana ed Emilia Romagna",
+      "nelle regioni dell' Abruzzo e Marche",
+      "nelle regioni dell' Abruzzo, Umbria e Toscana",
+      "nelle regioni dell' Emilia Romagna, Toscana e Marche"
+    ]
+  },
+  {
+    "id": 126,
+    "q": "Quale motociclista statunitense ha perso la vita nel 2017, a causa di un incidente stradale mentre era in bicicletta?",
+    "answers": [
+      "Nicholas Patrick Hayden",
+      "Marco Simoncelli",
+      "Ayrton Senna",
+      "Luis Salom"
+    ]
+  },
+  {
+    "id": 127,
+    "q": "Indicare tra i seguenti il fiume più lungo d'Italia.",
+    "answers": [
+      "Po",
+      "Tevere",
+      "Reno",
+      "Adige"
+    ]
+  },
+  {
+    "id": 128,
+    "q": "Indicare il simbolo chimico dell'oro.",
+    "answers": [
+      "Au",
+      "H",
+      "Ac",
+      "Al"
+    ]
+  },
+  {
+    "id": 129,
+    "q": "Indicare tra gli animali seguenti quello che non fa parte dei mammiferi.",
+    "answers": [
+      "Cigno",
+      "Foche",
+      "Leopardo",
+      "Marmotta"
+    ]
+  },
+  {
+    "id": 130,
+    "q": "La bile viene prodotta dal:",
+    "answers": [
+      "fegato",
+      "cornee",
+      "reni",
+      "cuore"
+    ]
+  },
+  {
+    "id": 131,
+    "q": "La Silicon Valley è:",
+    "answers": [
+      "Un distretto industriale",
+      "Una zona residenziale",
+      "Un'area ricca di risorse minerarie",
+      "Un relitto"
+    ]
+  },
+  {
+    "id": 132,
+    "q": "L'isola di Lipari, fa parte dell'arcipelago:",
+    "answers": [
+      "delle Eolie",
+      "delle Ponziane",
+      "delle Tremiti",
+      "delle Egadi"
+    ]
+  },
+  {
+    "id": 133,
+    "q": "Dove ha sede la Banca Centrale Europea?",
+    "answers": [
+      "Francoforte",
+      "Strasburgo",
+      "Berlino",
+      "Monaco"
+    ]
+  },
+  {
+    "id": 134,
+    "q": "\"La Nazione\" è il quotidiano di quale tra le seguenti città Italiane?",
+    "answers": [
+      "Firenze",
+      "Torino",
+      "Milano",
+      "Cagliari"
+    ]
+  },
+  {
+    "id": 135,
+    "q": "Chi è il regista del film \"Il divo\", basato sulla vita di Giulio Andreotti?",
+    "answers": [
+      "Paolo Sorrentino",
+      "Nanni Moretti",
+      "Paolo Virzi",
+      "Roberto Benigni"
+    ]
+  },
+  {
+    "id": 136,
+    "q": "In quale città è stata inaugurata, nel 2017, la pista di atletica intestata al campione Pietro Mennea?",
+    "answers": [
+      "Barletta",
+      "Foggia",
+      "Palermo",
+      "Firenze"
+    ]
+  },
+  {
+    "id": 137,
+    "q": "Quale delle seguenti è stata la prima visita ufficiale di Papa Francesco fuori Roma?",
+    "answers": [
+      "Lampedusa",
+      "Napoli",
+      "Trapani",
+      "Milano"
+    ]
+  },
+  {
+    "id": 138,
+    "q": "Indicare tra i seguenti animali qual è un mollusco.",
+    "answers": [
+      "L'ostrica",
+      "La spigola",
+      "Il gambero",
+      "L'anguilla"
+    ]
+  },
+  {
+    "id": 139,
+    "q": "Cosa producono le ghiandole salivari?",
+    "answers": [
+      "Producono la saliva che contiene un enzima chiamato ptialina",
+      "Producono il succo pancreatico",
+      "Producono il succo gastrico",
+      "Producono la bile"
+    ]
+  },
+  {
+    "id": 140,
+    "q": "Indicare tra questi animali quale non è un mammifero.",
+    "answers": [
+      "Ape",
+      "Cammello",
+      "Orso bruno",
+      "Leopardo"
+    ]
+  },
+  {
+    "id": 141,
+    "q": "Le piante nel terreno in cui vivono prelevano principalmente:",
+    "answers": [
+      "Composti dell'azoto",
+      "Zuccheri",
+      "Composti del carbonio",
+      "Lipidi"
+    ]
+  },
+  {
+    "id": 142,
+    "q": "Quale tra i seguenti è un metallo?",
+    "answers": [
+      "L'oro",
+      "La ceralacca",
+      "L'ossigeno",
+      "Il diamante"
+    ]
+  },
+  {
+    "id": 143,
+    "q": "Indicare tra questi animali quale non è un mammifero.",
+    "answers": [
+      "Gabbiano",
+      "Orso bruno",
+      "Leopardo",
+      "Ghepardo"
+    ]
+  },
+  {
+    "id": 144,
+    "q": "Il simbolo chimico del Litio è:",
+    "answers": [
+      "Li",
+      "Lu",
+      "Lr",
+      "Hf"
+    ]
+  },
+  {
+    "id": 145,
+    "q": "Il simbolo chimico del Bario è:",
+    "answers": [
+      "Ba",
+      "Zu",
+      "Ao",
+      "Ga"
+    ]
+  },
+  {
+    "id": 146,
+    "q": "Il nucleo del Sole:",
+    "answers": [
+      "è il punto dove viene prodotta l'energia",
+      "non produce energia",
+      "corrisponde al disco luminoso del Sole",
+      "è il punto di incontro delle particelle di liquidi presenti nell'atmosfera"
+    ]
+  },
+  {
+    "id": 147,
+    "q": "L'isola di Ventotene fa parte della regione:",
+    "answers": [
+      "Lazio",
+      "Campania",
+      "Calabria",
+      "Sicilia"
+    ]
+  },
+  {
+    "id": 148,
+    "q": "Il passaggio di una sostanza dallo stato solido a quello liquido viene detto:",
+    "answers": [
+      "Fusione",
+      "Liquefazione",
+      "Condensazione",
+      "Sublimazione"
+    ]
+  },
+  {
+    "id": 149,
+    "q": "Cosa è Il Down Jones:",
+    "answers": [
+      "E' uno degli indici di borsa di Wall Street",
+      "E' il primo ministro inglese",
+      "E' l'indice della borsa italiana",
+      "E' un'unità di misura anglosassone"
+    ]
+  },
+  {
+    "id": 150,
+    "q": "Quanto sangue è contenuto di norma, nel sistema circolatorio di un adulto di corporatura media?",
+    "answers": [
+      "5 litri di sangue",
+      "15 dl di sangue",
+      "8 litri di sangue",
+      "80 dl di sangue"
+    ]
+  },
+  {
+    "id": 151,
+    "q": "L'aorta appartiene all'apparato:",
+    "answers": [
+      "Circolatorio",
+      "Respiratorio",
+      "Digerente",
+      "Muscolo scheletrico"
+    ]
+  },
+  {
+    "id": 152,
+    "q": "Quale animale produce uova dotate di guscio rigido?",
+    "answers": [
+      "Pinguino",
+      "Canguro",
+      "Trota",
+      "Rana"
+    ]
+  },
+  {
+    "id": 153,
+    "q": "La Toscana è una regione italiana a statuto ordinario, situata nell'Italia centrale, con capoluogo:",
+    "answers": [
+      "Firenze",
+      "Potenza",
+      "Pisa",
+      "Livorno"
+    ]
+  },
+  {
+    "id": 154,
+    "q": "Avellino si può identificare con la sigla:",
+    "answers": [
+      "AV",
+      "AR",
+      "AG",
+      "AP"
+    ]
+  },
+  {
+    "id": 155,
+    "q": "Il massiccio più alto delle Dolomiti è il gruppo:",
+    "answers": [
+      " della Marmolada",
+      "del Kilimangiaro",
+      "del Monte Fumaiolo",
+      "del Monte Rosa"
+    ]
+  },
+  {
+    "id": 156,
+    "q": "Qual è il sistema montuoso della Toscana lungo il confine con l'Emilia Romagna?",
+    "answers": [
+      "Appennino",
+      "Dolomiti",
+      "Monte Bianco",
+      "Sila"
+    ]
+  },
+  {
+    "id": 157,
+    "q": "II ______ è un'ampia insenatura del mar Tirreno Centrale Settore Est, situata a sud della città di Napoli, compresa tra la penisola flegrea a nord-ovest e la penisola sorrentina a sud.",
+    "answers": [
+      "Golfo di Napoli",
+      "Golfo di Tigullio",
+      "Golfo di La Spezia",
+      "Golfo di Trieste"
+    ]
+  },
+  {
+    "id": 158,
+    "q": "In Basilicata il fiume più lungo è:",
+    "answers": [
+      "Basento",
+      "Brenta",
+      "Tagliamento",
+      "Adige"
+    ]
+  },
+  {
+    "id": 159,
+    "q": "Indicare tra i seguenti quale non fa parte dello scheletro umano.",
+    "answers": [
+      "Tendine di Achille",
+      "Osso occipitale",
+      "Costola",
+      "Sterno"
+    ]
+  },
+  {
+    "id": 160,
+    "q": "In quale zona di Londra si è consumato l'attentato terroristico del 22 marzo 2017?",
+    "answers": [
+      "Ponte di Westminster",
+      "London Bridge",
+      "Manchester arena",
+      "Hyde Park"
+    ]
+  },
+  {
+    "id": 161,
+    "q": "In quale città viene assegnato annualmente il premio cinematografico \"Orso d'oro\"?",
+    "answers": [
+      "Berlino",
+      "Madrid",
+      "Torino",
+      "Lisbona"
+    ]
+  },
+  {
+    "id": 162,
+    "q": "Qual è il nome del giornale di Napoli?",
+    "answers": [
+      "II Mattino",
+      "II Piccolo",
+      "II Messaggero",
+      "La Nazione"
+    ]
+  },
+  {
+    "id": 163,
+    "q": "A quale città sono stati assegnati i giochi olimpici del 2024?",
+    "answers": [
+      "Parigi",
+      "Los Angeles",
+      "Roma",
+      "Pechino"
+    ]
+  },
+  {
+    "id": 164,
+    "q": "II 21 luglio 2017 un terremoto devastante ha colpito quali nazioni del bacino mediterraneo?",
+    "answers": [
+      "Grecia e Turchia",
+      "Italia e Spagna",
+      "Turchia e Siria",
+      "Grecia e Albania"
+    ]
+  },
+  {
+    "id": 165,
+    "q": "In quale città si è svolto il G7 che ha avuto luogo nel 2025 in Italia?",
+    "answers": [
+      "Borgo Egnazia",
+      "Taranto",
+      "Roma",
+      "Genova"
+    ]
+  },
+  {
+    "id": 166,
+    "q": "Quale evento raro si è potuto osservare il 21 Agosto 2017?",
+    "answers": [
+      "Eclissi solare totale",
+      "Eclissi di luna",
+      "Stella cadente più luminosa degli ultimi 10 anni",
+      "Sciame di meteoriti"
+    ]
+  },
+  {
+    "id": 167,
+    "q": "Nel febbraio 2017 la regina Elisabetta è stata la prima sovrana a festeggiare:",
+    "answers": [
+      "II giubileo di zaffiro per i 65 anni sul trono",
+      "II giubileo d'oro per i 50 anni sul trono",
+      "II giubileo di platino per i 60 anni sul trono",
+      "II giubileo di diamante per i 75 anni sul trono"
+    ]
+  },
+  {
+    "id": 168,
+    "q": "Quale importante casa automobilistica italiana ha fatto il suo ingresso nella Borsa italiana?",
+    "answers": [
+      "Ferrari",
+      "Lamborghini",
+      "Fiat",
+      "Alfa Romeo"
+    ]
+  },
+  {
+    "id": 169,
+    "q": "Quale nota serie televisiva è ispirata ad un romanzo di Roberto Saviano?",
+    "answers": [
+      "Gomorra",
+      "Suburra",
+      "Reality",
+      "Rocco Schiavone"
+    ]
+  },
+  {
+    "id": 170,
+    "q": "Quale serie televisiva tratta le vicende della criminalità organizzata del quartiere romano di Ostia?",
+    "answers": [
+      "Suburra",
+      "Gomorra",
+      "I delitti del barlume",
+      "Preacher"
+    ]
+  },
+  {
+    "id": 171,
+    "q": "Qual è il titolo del film vincitore del Festival di Cannes 2019?",
+    "answers": [
+      "Parasite",
+      "The square",
+      "La Belle Epoque",
+      "Border"
+    ]
+  },
+  {
+    "id": 172,
+    "q": "Di quale celebre Romanzo, oggetto di trasposizione cinematografica, è ricorso nel 2016, l'anniversario degli 80 anni di pubblicazione?",
+    "answers": [
+      "Via col Vento",
+      "Casablanca",
+      "Ben Hur",
+      "II Padrino"
+    ]
+  },
+  {
+    "id": 173,
+    "q": "Cosa si celebra il 27 gennaio di ogni anno?",
+    "answers": [
+      "II Giorno della Memoria",
+      "La nascita dell'Unione europea",
+      "La Festa dei Lavoratori",
+      "La Festa della Repubblica"
+    ]
+  },
+  {
+    "id": 174,
+    "q": "Di quale nazionalità sono gli atleti che sono stati esclusi da Rio 2016 in seguito ad uno scandalo per doping?",
+    "answers": [
+      "Russa",
+      "Greca",
+      "Americana",
+      "Francese"
+    ]
+  },
+  {
+    "id": 175,
+    "q": "In quale città della Russia ha avuto luogo un attentato alla metropolitana nell'aprile 2017?",
+    "answers": [
+      "San Pietroburgo",
+      "Mosca",
+      "Novosibirsk",
+      "Ekaterinenburg"
+    ]
+  },
+  {
+    "id": 176,
+    "q": "Quale importante figura religiosa è stata canonizzata nel 2016?",
+    "answers": [
+      "Madre Teresa di Calcutta",
+      "Padre Pio",
+      "Papa Giovanni Paolo II",
+      "Pietro Favre"
+    ]
+  },
+  {
+    "id": 177,
+    "q": "Nel 2018 ricorre il 70° anniversario dalla costituzione di quale importante documento?",
+    "answers": [
+      "Dichiarazione universale dei diritti dell'uomo",
+      "Dichiarazione di indipendenza",
+      "Statuto dei lavoratori",
+      "Costituzione americana"
+    ]
+  },
+  {
+    "id": 178,
+    "q": "Di quale compagnia aerea era il velivolo che il 19 maggio 2016, durante la tratta Parigi-Il Cairo, è precipitato nel Mar Mediterraneo?",
+    "answers": [
+      "Egyptair",
+      "Air France",
+      "Emirates",
+      "Alitalia"
+    ]
+  },
+  {
+    "id": 179,
+    "q": "In quale comune della Città Metropolitana di Milano si è verificato il deragliamento di un treno il 25 gennaio 2018?",
+    "answers": [
+      "Pioltello",
+      "Garbagnate Milanese",
+      "Rho",
+      "Milano"
+    ]
+  },
+  {
+    "id": 180,
+    "q": "Quale nota manifestazione sportiva ha celebrato il proprio centenario nel 2017?",
+    "answers": [
+      "II Giro d'Italia",
+      "Serie A",
+      "Golden Gala",
+      "Internazionali d'Italia"
+    ]
+  },
+  {
+    "id": 181,
+    "q": "Quale pellicola si è aggiudicata l'Oscar come miglior film nel 2018?",
+    "answers": [
+      "La forma dell'acqua",
+      "Dunkirk",
+      "Lady Bird",
+      "The post"
+    ]
+  },
+  {
+    "id": 182,
+    "q": "Nel 2017 in Arabia Saudita il re ha fatto una concessione storica, quale?",
+    "answers": [
+      "Ha permesso alle donne di guidare",
+      "Ha permesso la libera professione della religione cristiana",
+      "Ha permesso alle donne di circolare senza velo",
+      "Ha permesso alle donne di votare"
+    ]
+  },
+  {
+    "id": 183,
+    "q": "II 4 dicembre 2016, in Italia, ha avuto luogo un referendum riguardante la legge Renzi-Boschi, di che carattere ?",
+    "answers": [
+      "Costituzionale",
+      "Consultivo",
+      "Abrogativo",
+      "Propositivo"
+    ]
+  },
+  {
+    "id": 184,
+    "q": "A quale città sono stati assegnati i giochi olimpici che si terranno nel 2028?",
+    "answers": [
+      "Los Angeles",
+      "Roma",
+      "Parigi",
+      "Atene"
+    ]
+  },
+  {
+    "id": 185,
+    "q": "Chi assume l'incarico di Primo Ministro del Regno Unito nel 2024?",
+    "answers": [
+      "Keir Starmer",
+      "Nigel Farage",
+      "David Cameron",
+      "Tony Blair"
+    ]
+  },
+  {
+    "id": 186,
+    "q": "In quale mese e anno si è tenuto il referendum meglio conosciuto come Brexit?",
+    "answers": [
+      "Giugno 2016",
+      "Giugno 2017",
+      "Dicembre 2015",
+      "Febbraio 2014"
+    ]
+  },
+  {
+    "id": 187,
+    "q": "Chi è stato il principale antagonista politico di Donald Trump durante la corsa alla Casa Bianca?",
+    "answers": [
+      "Kamala Harris",
+      "Bernie Sanders",
+      "Gary Jhonson",
+      "Barack Obama"
+    ]
+  },
+  {
+    "id": 188,
+    "q": "In Italia nel maggio 2016 viene approvata una legge molto discussa, su quale argomento?",
+    "answers": [
+      "Unioni civili dello stesso sesso",
+      "Legge elettorale",
+      "lus Soli",
+      "Stepchild Adoption"
+    ]
+  },
+  {
+    "id": 189,
+    "q": "Quale evento astronomico si è potuto osservare nel maggio 2016?",
+    "answers": [
+      "II transito di Mercurio",
+      "Eclissi di luna",
+      "Eclissi solare",
+      "II passaggio della cometa di Halley"
+    ]
+  },
+  {
+    "id": 190,
+    "q": "Nel marzo 2020 I'OMS annuncia lo scoppio dell'epidemia di quale virus?",
+    "answers": [
+      "Covid19-",
+      "H1N1",
+      "Ebola",
+      "Vaiolo"
+    ]
+  },
+  {
+    "id": 191,
+    "q": "Quale è stato il prodotto agroalimentare più esportato dall'Italia nel 2024?",
+    "answers": [
+      "Vino",
+      "Formaggio",
+      "Pomodori",
+      "Olio d'oliva"
+    ]
+  },
+  {
+    "id": 192,
+    "q": "Quale quotidiano è anche conosciuto come \"la rosea\"?",
+    "answers": [
+      "Gazzetta dello Sport",
+      "II Messaggero",
+      "Gazzetta del Sud",
+      "La Repubblica"
+    ]
+  },
+  {
+    "id": 193,
+    "q": "In Italia, nel 2017, si è celebrato il centenario di importante avvenimento, ovvero?",
+    "answers": [
+      "Battaglia di Caporetto",
+      "Battaglia del Piave",
+      "Liberazione di Roma",
+      "Liberazione dai Borbone"
+    ]
+  },
+  {
+    "id": 194,
+    "q": "Quale tra i seguenti Stati nel 2016 ha lanciato missili nucleari?",
+    "answers": [
+      "Corea del Nord",
+      "Corea del Sud",
+      "Russia",
+      "Polonia"
+    ]
+  },
+  {
+    "id": 195,
+    "q": "Quale calciatore italiano ha dato l'addio al calcio nel 2017?",
+    "answers": [
+      "Francesco Totti",
+      "Paolo Maldini",
+      "Alessandro Nesta",
+      "Gianluigi Buffon"
+    ]
+  },
+  {
+    "id": 196,
+    "q": "Where are the relics of Pope Francis kept?",
+    "answers": [
+      "Chiesa di Santa Maria Maggiore",
+      "Basilica di San Pietro",
+      "Chiesa di San Giovanni in Laterano",
+      "Castel Gandolfo"
+    ]
+  },
+  {
+    "id": 197,
+    "q": "Dove viene assegnato ogni anno il premio Nobel per la pace?",
+    "answers": [
+      "Oslo",
+      "Stoccolma",
+      "Londra",
+      "Helsinki"
+    ]
+  },
+  {
+    "id": 198,
+    "q": "Ogni quanti anni si celebra il Giubileo ordinario?",
+    "answers": [
+      "25 anni",
+      "5 anni",
+      "50 anni",
+      "15 anni"
+    ]
+  },
+  {
+    "id": 199,
+    "q": "Nell'Ottobre 2017 sono stati ricordati i 100 anni da quale importante rivoluzione?",
+    "answers": [
+      "Rivoluzione Russa",
+      "Rivoluzione del Kosovo",
+      "Rivoluzione Francese",
+      "Rivoluzione americana"
+    ]
+  },
+  {
+    "id": 200,
+    "q": "La casa di produzione cinematografica fondata dal regista Nanni Moretti si chiama:",
+    "answers": [
+      "Sacher film",
+      "Medusa film",
+      "Taodue film",
+      "01 Distribution"
+    ]
+  },
+  {
+    "id": 201,
+    "q": "Dove si trova la sede centrale dell'OCSE?",
+    "answers": [
+      "Parigi",
+      "Francoforte",
+      "Bruxelles",
+      "Amsterdam"
+    ]
+  },
+  {
+    "id": 202,
+    "q": "Tesla è un'azienda specializzata nella produzione di:",
+    "answers": [
+      "veicoli elettrici",
+      "barche a vela",
+      "fertilizzanti",
+      "navi da crociera"
+    ]
+  },
+  {
+    "id": 203,
+    "q": "Chi tra i seguenti personaggi ha esercitato per primo la carica di Presidente della Camera dei Deputati?",
+    "answers": [
+      "Pier Ferdinando Casini",
+      "Gianfranco Fini",
+      "Laura Boldrini",
+      "Emma Bonino"
+    ]
+  },
+  {
+    "id": 204,
+    "q": "La fiction \"Don Matteo\" è stata girata nella regione:",
+    "answers": [
+      "Umbria",
+      "Molise",
+      "Sardegna",
+      "Marche"
+    ]
+  },
+  {
+    "id": 205,
+    "q": "La riforma universitaria chiamata comunemente 3+2 è stata introdotta da:",
+    "answers": [
+      "Letizia Moratti",
+      "Giovanni Gentile",
+      "Tullio De Mauro",
+      "Patrizio Bianchi"
+    ]
+  },
+  {
+    "id": 206,
+    "q": "In quale città italiana si svolge il \" maggio dei monumenti\"?",
+    "answers": [
+      "Napoli",
+      "Firenze",
+      "Roma",
+      "Palermo"
+    ]
+  },
+  {
+    "id": 207,
+    "q": "Di quale paese è stato presidente Kim Il-sung?",
+    "answers": [
+      "Corea del Nord",
+      "Giappone",
+      "Cina",
+      "Taiwan"
+    ]
+  },
+  {
+    "id": 208,
+    "q": "Quali sigle, tre le seguenti, individuano i servizi segreti italiani?",
+    "answers": [
+      "AISE e AISI",
+      "SISMI e SISDE",
+      "STASI e MFS",
+      "FBI e CIA"
+    ]
+  },
+  {
+    "id": 209,
+    "q": "Quale dei seguenti paesi, il 1 luglio 2013, è entrato a far parte dell'Unione Europea?",
+    "answers": [
+      "Croazia",
+      "Turchia",
+      "Zagabria",
+      "Serbia"
+    ]
+  },
+  {
+    "id": 210,
+    "q": "La riunione periodica del clero di una diocesi è chiamata:",
+    "answers": [
+      "Sinodo",
+      "Vescovato",
+      "Assemblea",
+      "Conclave"
+    ]
+  },
+  {
+    "id": 211,
+    "q": "Nel 2022, quale ministro è stato nominato Ministro dell'Economia e Finanze nel Governo Meloni?",
+    "answers": [
+      "Giancarlo Giorgietti",
+      "Pietro Carlo Padoan",
+      "Nunzia De Girolamo",
+      "Maurizio Lupi"
+    ]
+  },
+  {
+    "id": 212,
+    "q": "Chi è stato eletto Presidente del Governo Spagnolo nel 2018?",
+    "answers": [
+      "Pedro Sanchez",
+      "Felipe González",
+      "José María Aznar",
+      "José Luis R. Zapatero"
+    ]
+  },
+  {
+    "id": 213,
+    "q": "A cosa fa riferimeto il nome di Abu Bakr al-Baghdadi, apparso nelle cronache internazionali nel 2014?",
+    "answers": [
+      "Al progetto di califfato islamico in Siria e Iraq",
+      "Alla guida suprema dell'Iran",
+      "Alla leadership del movimento dei talebani",
+      "Alla presidenza dell'Iraq, dopo la caduta di Saddam Hussein"
+    ]
+  },
+  {
+    "id": 214,
+    "q": "Cosa vuol dire, nello scenario medio-orientale, la sigla ISIS?",
+    "answers": [
+      "Stato Islamico dell'Iraq e della Siria",
+      "Federazione Araba Unita",
+      "Movimento Islamico di Resistenza",
+      "Associazione dei Fratelli Musulmani"
+    ]
+  },
+  {
+    "id": 215,
+    "q": "Piazza Majdan è un teatro di violenti scontri fra oppositori e governativi, avvenuti fra il 2013 e il 2014. Dove si trova questa piazza:",
+    "answers": [
+      "Kiev",
+      "Istanbul",
+      "II Cairo",
+      "Damasco"
+    ]
+  },
+  {
+    "id": 216,
+    "q": "Come si chiama la moglie del Principe William d'Inghilterra?",
+    "answers": [
+      "Kate Middletone",
+      "Grace Kelly",
+      "Meghan Markle",
+      "Charlene Witstock"
+    ]
+  },
+  {
+    "id": 217,
+    "q": "Chi è il fondatore del colosso del commercio elettronico \"Amazon\"?",
+    "answers": [
+      "Jeff Bezos",
+      "Larry Page",
+      "Travis Kalanick",
+      "Roman Abramovic"
+    ]
+  },
+  {
+    "id": 218,
+    "q": "Il termine \" Catfishing\" indica:",
+    "answers": [
+      "un'attività ingannevole sui social network",
+      "un assegno a vuoto",
+      "una droga sintetica",
+      "una fake news"
+    ]
+  },
+  {
+    "id": 219,
+    "q": "\"Il Secolo XIX\" è il quotidiano di quale tra le seguenti città italiane?",
+    "answers": [
+      "Genova",
+      "Firenze",
+      "Bologna",
+      "Torino"
+    ]
+  },
+  {
+    "id": 220,
+    "q": "Cosa s'intende con il termine \" Netiquette \"?",
+    "answers": [
+      "un insieme di regole informali che disciplinano il buon comportamento di un utente sul web",
+      "un insieme di regole che disciplinano le vendite online",
+      "le norme che disciplinano il diritto di immagine sul web",
+      "un insieme di regole che stabiliscono i posti all'interno di un aereo"
+    ]
+  },
+  {
+    "id": 221,
+    "q": "A quale scheramento politico appartiene Giuseppe Valditara?",
+    "answers": [
+      "Lega per Salvini premier",
+      "PD",
+      "Forza Italia",
+      "Fratelli d'Italia"
+    ]
+  },
+  {
+    "id": 222,
+    "q": "In quale città ha sede la Corte di Giustizia dell'Unione europea?",
+    "answers": [
+      "Lussemburgo",
+      "Strasburgo",
+      "Bruxelles",
+      "Amsterdam"
+    ]
+  },
+  {
+    "id": 223,
+    "q": "Chi è l'attuale segretario generale del sindacato della CGIL dal 2019?",
+    "answers": [
+      "Maurizio Landini",
+      "Susanna Camusso",
+      "Annamaria Furlan",
+      "Sergio Cofferati"
+    ]
+  },
+  {
+    "id": 224,
+    "q": "Con quale soprannome è conosciuto il narcotrafficante messicano Joaquin Guzman?",
+    "answers": [
+      "El chapo",
+      "El patron",
+      "El pocho",
+      "El nino"
+    ]
+  },
+  {
+    "id": 225,
+    "q": "Indicare il vincitore del Festival di Sanremo 2025.",
+    "answers": [
+      "Olly",
+      "Lucio Corsi",
+      "Lazza",
+      "Giorgia"
+    ]
+  },
+  {
+    "id": 226,
+    "q": "L'indice della Borsa di New York è:",
+    "answers": [
+      "il Dow Jones",
+      "il Footsie Mib",
+      "il Nasdaq",
+      "l'OMX"
+    ]
+  },
+  {
+    "id": 227,
+    "q": "La società italiana che tutela i diritti degli autori e degli editori viene chiamata:",
+    "answers": [
+      "SIAE",
+      "SIDAR",
+      "SISFOR",
+      "SEAC"
+    ]
+  },
+  {
+    "id": 228,
+    "q": "Con quale termine viene indicato il fattorino addetto alla consegna a domicilio di cibo?",
+    "answers": [
+      "rider",
+      "pony express",
+      "sommelier",
+      "gourmet"
+    ]
+  },
+  {
+    "id": 229,
+    "q": "II premio Nobel per l'economia 2024 è stato assegnato a:",
+    "answers": [
+      "James A. Robinson, Simon Johnson e daron Acemoglu",
+      "Pierre Moscovici",
+      "Warren Buffet",
+      "Valdis Bombrovskis"
+    ]
+  },
+  {
+    "id": 230,
+    "q": "Chi, tra le seguenti persone, NON è tra i fondatori di Facebook?",
+    "answers": [
+      "Tim Cook",
+      "Andrew McCollum",
+      "Eduardo Saverin",
+      "Dustin Moslovitz"
+    ]
+  },
+  {
+    "id": 231,
+    "q": "Chi, tra le seguenti persone, è uno dei fondatori di Google?",
+    "answers": [
+      "Sergey Brin",
+      "Bill Gates",
+      "Mark Zuckerberg",
+      "Steve Jobs"
+    ]
+  },
+  {
+    "id": 232,
+    "q": "Dopo le elezioni per il rinnovo del Parlamento europeo, tenutesi nel mese di maggio 2019, la presidenza della Commissione Europea è andata a:",
+    "answers": [
+      "Ursula Von der Leyen",
+      "Angela Merkel",
+      "Jean-Claude Juncker",
+      "Julia Klockner"
+    ]
+  },
+  {
+    "id": 233,
+    "q": "\" L'Orso d'oro \" è il riconoscimento per il miglior film in concorso che si assegna:",
+    "answers": [
+      "al Festival del cinema di Berlino",
+      "al Festival del cinema di Cannes",
+      "alla Festa del cinema di Venezia",
+      "al Festival cinematografico internazionale di Mosca"
+    ]
+  },
+  {
+    "id": 234,
+    "q": "Il termine \"intifada\" indica:",
+    "answers": [
+      "la \"rivolta delle pietre\" dei palestinesi contro gli israeliani",
+      "la repressione israeliana contro i palestinesi",
+      "l' operazione Inverno caldo",
+      "La guerra santa islamica"
+    ]
+  },
+  {
+    "id": 235,
+    "q": "Chi ha vinto il \" Premio Strega \"2024?",
+    "answers": [
+      "Donatella Di Pietrantonio",
+      "Gianrico Carofiglio",
+      "Roberto Saviano",
+      "Marco Missiroli"
+    ]
+  },
+  {
+    "id": 236,
+    "q": "Indicare il comune zucchero da cucina.",
+    "answers": [
+      "Saccarosio",
+      "Saccarina",
+      "Lattosio",
+      "Maltosio"
+    ]
+  },
+  {
+    "id": 237,
+    "q": "Bill Gates fu fondatore di:",
+    "answers": [
+      "Microsoft",
+      "Apple",
+      "IBM",
+      "Winsurf"
+    ]
+  },
+  {
+    "id": 238,
+    "q": "Da quale specialista si deve andare se si hanno dolori ai piedi?",
+    "answers": [
+      "Podologo",
+      "Pediatra",
+      "Patologo",
+      "Reumatologo"
+    ]
+  },
+  {
+    "id": 239,
+    "q": "II lattosio è:",
+    "answers": [
+      "uno zucchero presente nel latte",
+      "un piccolo peptide presente nel latte",
+      "una vitamina presente nel latte",
+      "uno zucchero presente solo nelle piante"
+    ]
+  },
+  {
+    "id": 240,
+    "q": "Cosa sono le comete?",
+    "answers": [
+      "Corpi celesti",
+      "Sistemi solari",
+      "Pianeti",
+      "Orbite"
+    ]
+  },
+  {
+    "id": 241,
+    "q": "Indicare l'animale invertebrato.",
+    "answers": [
+      "Blatta",
+      "Cavallo",
+      "Asino",
+      "Ippopotamo"
+    ]
+  },
+  {
+    "id": 242,
+    "q": "Cosa indica la lettera \"m\" nella formula della legge fondamentale della dinamica?",
+    "answers": [
+      "La massa dell'oggetto in questione",
+      "La massa molecolare",
+      "La massa atomica",
+      "La molarità"
+    ]
+  },
+  {
+    "id": 243,
+    "q": "All'interno delle cellule, il principale trasportatore di energia chimica è detto:",
+    "answers": [
+      "ATP",
+      "FAD",
+      "AMP",
+      "NAD"
+    ]
+  },
+  {
+    "id": 244,
+    "q": "in che anno è stata introdotta la patente a punti",
+    "answers": [
+      "2002",
+      "2004",
+      "2003",
+      "2005"
+    ]
+  },
+  {
+    "id": 245,
+    "q": "Tra i seguenti uno non è un osso, quale?",
+    "answers": [
+      "Il ginocchio",
+      "La tibia",
+      "La rotula",
+      "Il femore"
+    ]
+  },
+  {
+    "id": 246,
+    "q": "Come viene chiamato il codice che permette di identificare univocamente un terminale mobile, attraverso una sequenza alfa numerica?",
+    "answers": [
+      "IMEI",
+      "EMAIL",
+      "PUK",
+      "PIN"
+    ]
+  },
+  {
+    "id": 247,
+    "q": "II fisico Isaac Newton divenne famoso per gli studi sulla:",
+    "answers": [
+      "Gravità",
+      "Radioattività",
+      "Magnetismo",
+      "Galleggiamento dei corpi"
+    ]
+  },
+  {
+    "id": 248,
+    "q": "Chi ha vinto il Giro d'Italia nel 2024?",
+    "answers": [
+      "Tadej Pogacar",
+      "Vincenzo Nibali",
+      "Mikel Landa",
+      "Egan bernal"
+    ]
+  },
+  {
+    "id": 249,
+    "q": "Nel 2020, la rivista \"Time\" scelse come \"persona dell'anno\":",
+    "answers": [
+      "Joe Biden",
+      "Madonna",
+      "Lady Gaga",
+      "William d'Inghilterra"
+    ]
+  },
+  {
+    "id": 250,
+    "q": "La serie tv \"Gomorra\" è ispirata al libro di:",
+    "answers": [
+      "Roberto Saviano",
+      "Giorgio Faletti",
+      "Umberto Eco",
+      "Oriana Fallaci"
+    ]
+  }
+]
