@@ -1,1 +1,284 @@
+:root {
+    /* Tavolozza Colori Ufficiali Polizia di Stato */
+    --polizia-blue-dark: #0f2547;   /* Blu profondo d'ordinanza */
+    --polizia-blue-light: #1b3d6d;  /* Accent blue per elementi attivi */
+    --polizia-gold: #c39b34;        /* Oro dei fregi e delle aquile istituzionali */
+    --polizia-gold-hover: #a68028;  /* Oro per hover */
+    --polizia-amaranto: #7a1f3d;    /* Il classico amaranto cremisi della Polizia */
+    --polizia-amaranto-hover: #5f142e;
+    
+    /* Colori di stato e feedback */
+    --success-color: #2e7d32;       /* Verde chiaro per risposte esatte */
+    --danger-color: #c62828;        /* Rosso per risposte errate */
+    --bg-color: #f1f4f9;            /* Sfondo chiaro e moderno */
+    --box-bg: #ffffff;
+    --text-main: #1c2434;           /* Testo scuro ad alta leggibilità */
+    --text-muted: #64748b;          /* Testo secondario */
+    --border-color: #e2e8f0;
+}
 
+body {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    background: radial-gradient(circle at top right, #e9edf5 0%, var(--bg-color) 100%);
+    color: var(--text-main);
+    margin: 0;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    letter-spacing: -0.01em;
+}
+
+.container {
+    width: 100%;
+    max-width: 680px;
+}
+
+/* Titolo Principale Istituzionale */
+h1 {
+    text-align: center;
+    color: var(--polizia-blue-dark);
+    font-size: 26px;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin-bottom: 25px;
+    text-shadow: 0 1px 2px rgba(0,0,0,0.05);
+}
+
+/* Card Contenitore Principale */
+.box {
+    background: var(--box-bg);
+    border: 1px solid var(--border-color);
+    border-top: 5px solid var(--polizia-blue-dark); /* Richiamo fascia d'ordinanza */
+    border-radius: 12px;
+    padding: 35px;
+    box-shadow: 0 10px 25px rgba(15, 37, 71, 0.06);
+    position: relative;
+    overflow: hidden;
+}
+
+/* Sottotitoli */
+h2 {
+    color: var(--polizia-blue-light);
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: 0;
+    margin-bottom: 15px;
+}
+
+.hidden {
+    display: none !important;
+}
+
+/* Gruppi di Input Form */
+.input-group {
+    margin: 25px 0;
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+    font-weight: 600;
+    color: var(--polizia-blue-dark);
+    font-size: 15px;
+}
+
+input[type="number"] {
+    width: 100%;
+    padding: 12px 16px;
+    border: 2px solid var(--border-color);
+    border-radius: 6px;
+    font-size: 16px;
+    font-weight: 600;
+    color: var(--polizia-blue-dark);
+    box-sizing: border-box;
+    transition: border-color 0.2s, box-shadow 0.2s;
+}
+
+input[type="number"]:focus {
+    outline: none;
+    border-color: var(--polizia-blue-light);
+    box-shadow: 0 0 0 3px rgba(27, 61, 109, 0.15);
+}
+
+/* Pulsanti d'Azione */
+.btn {
+    width: 100%;
+    padding: 14px;
+    font-size: 16px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    margin-top: 12px;
+    transition: all 0.2s ease-in-out;
+}
+
+.btn.primary {
+    background-color: var(--polizia-gold);
+    color: var(--polizia-blue-dark);
+    box-shadow: 0 4px 12px rgba(195, 155, 52, 0.2);
+}
+
+.btn.primary:hover:not([disabled]) {
+    background-color: var(--polizia-gold-hover);
+    transform: translateY(-1px);
+    box-shadow: 0 6px 15px rgba(195, 155, 52, 0.3);
+}
+
+.btn.primary:active {
+    transform: translateY(1px);
+}
+
+.btn.danger {
+    background-color: transparent;
+    color: var(--polizia-amaranto);
+    border: 2px solid var(--polizia-amaranto);
+    margin-top: 20px;
+}
+
+.btn.danger:hover {
+    background-color: var(--polizia-amaranto);
+    color: white;
+    box-shadow: 0 4px 12px rgba(122, 31, 61, 0.2);
+}
+
+/* Intestazione del Quiz */
+.quiz-header {
+    display: flex;
+    justify-content: space-between;
+    font-size: 13px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--text-muted);
+    border-bottom: 2px solid #f1f5f9;
+    padding-bottom: 12px;
+    margin-bottom: 25px;
+}
+
+#progress-text {
+    color: var(--polizia-blue-light);
+}
+
+/* Testo del Quesito d'Esame */
+#question-text {
+    font-size: 19px;
+    font-weight: 700;
+    color: var(--polizia-blue-dark);
+    margin-bottom: 25px;
+    line-height: 1.5;
+}
+
+/* Griglia Opzioni di Risposta */
+.options-grid {
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+}
+
+/* Pulsanti delle Risposte (Stile Selettori Concorso) */
+.option-btn {
+    text-align: left;
+    padding: 16px 20px;
+    font-size: 15px;
+    font-weight: 500;
+    color: #334155;
+    background-color: #fff;
+    border: 1px solid var(--border-color);
+    border-left: 4px solid var(--polizia-blue-light); /* Dettaglio elegante sul bordo sinistro */
+    border-radius: 6px;
+    cursor: pointer;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.01);
+    transition: all 0.2s ease;
+}
+
+.option-btn:hover:not([disabled]) {
+    background-color: #f8fafc;
+    border-color: var(--polizia-blue-light);
+    transform: translateX(4px); /* Leggero spostamento in avanti all'hover */
+}
+
+/* Stati di Correzione Dinamica */
+.option-btn.correct {
+    background-color: #e8f5e9 !important;
+    color: var(--success-color) !important;
+    border-color: var(--success-color) !important;
+    border-left-width: 6px;
+    font-weight: 700;
+}
+
+.option-btn.wrong {
+    background-color: #ffebee !important;
+    color: var(--danger-color) !important;
+    border-color: var(--danger-color) !important;
+    border-left-width: 6px;
+    font-weight: 700;
+}
+
+/* Banner Box di Feedback */
+.feedback {
+    margin-top: 25px;
+    padding: 14px;
+    border-radius: 6px;
+    text-align: center;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 14px;
+    letter-spacing: 0.05em;
+    animation: fadeIn 0.3s ease-in-out;
+}
+
+.feedback.correct {
+    background-color: var(--success-color);
+    color: white;
+    box-shadow: 0 4px 10px rgba(46, 125, 50, 0.2);
+}
+
+.feedback.wrong {
+    background-color: var(--danger-color);
+    color: white;
+    box-shadow: 0 4px 10px rgba(198, 40, 40, 0.2);
+}
+
+/* Schermata Statistiche Finale */
+.stats {
+    background-color: #f8fafc;
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    padding: 20px;
+    margin: 20px 0;
+}
+
+.stats p {
+    font-size: 16px;
+    font-weight: 600;
+    margin: 12px 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+#stats-correct {
+    color: var(--success-color);
+}
+
+#stats-wrong {
+    color: var(--danger-color);
+}
+
+#result-message {
+    font-weight: 600;
+    text-align: center;
+    color: var(--polizia-blue-dark);
+    margin-bottom: 20px;
+}
+
+/* Animazioni */
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(5px); }
+    to { opacity: 1; transform: translateY(0); }
+}
