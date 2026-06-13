@@ -3,31 +3,42 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Quiz di Cultura Generale</title>
-    <link rel="stylesheet" href="style.css">
+    <title>Simulatore Concorso Polizia di Stato</title>
+    <!-- Ho aggiornato la versione del CSS per evitare vecchi problemi di cache -->
+    <link rel="stylesheet" href="style.css?v=1.2">
 </head>
 <body>
     <div class="container">
-        <h1>Quiz di Cultura Generale</h1>
+        
+        <!-- INTESTAZIONE ISTITUZIONALE SOPRA LA CARD -->
+        <div class="istituzionale-header">
+            <div class="stemma-testo">MINISTERO DELL'INTERNO</div>
+            <div class="reparto-testo">Dipartimento della Pubblica Sicurezza</div>
+        </div>
+
+        <h1>Simulazione Banca Dati</h1>
         
         <!-- SCHERMATA INIZIALE / CONFIGURAZIONE -->
         <div id="setup-screen" class="box">
-            <h2>Configura la Sessione</h2>
-            <p>Domande ancora da completare: <strong id="total-remaining">0</strong></p>
+            <h2>Piattaforma di Esercitazione Concorsi</h2>
+            <p>Quesiti ancora da archiviare: <strong id="total-remaining">0</strong></p>
             
             <div class="input-group">
-                <label for="question-quantity">Quante domande vuoi affrontare in questa sessione?</label>
-                <input type="number" id="question-quantity" min="1" value="10">
+                <label for="question-quantity">Seleziona il numero di quesiti per questa sessione di studio:</label>
+                <input type="number" id="question-quantity" min="1" value="20">
             </div>
             
-            <button id="start-btn" class="btn primary">Avvia Sessione</button>
+            <button id="start-btn" class="btn primary">Avvia Simulazione</button>
             <button id="reset-all-btn" class="btn danger">Reset Totale Progressi</button>
+            
+            <!-- MOTTO DI CHIUSURA -->
+            <div class="motto-polizia">SUB LEGE LIBERTAS</div>
         </div>
 
         <!-- SCHERMATA DEL QUIZ -->
         <div id="quiz-screen" class="box hidden">
             <div class="quiz-header">
-                <span id="progress-text">Domanda 1 di X</span>
+                <span id="progress-text">Quesito 1 di X</span>
                 <span id="session-remaining">Rimanenti in sessione: X</span>
             </div>
             
@@ -39,18 +50,20 @@
             </div>
             
             <div id="feedback" class="feedback hidden"></div>
-            <button id="next-btn" class="btn primary hidden">Prossima Domanda</button>
+            <button id="next-btn" class="btn primary hidden">Prossimo Quesito</button>
+            
+            <div class="motto-polizia-mini">Esserci Sempre</div>
         </div>
 
         <!-- SCHERMATA FINE SESSIONE -->
         <div id="result-screen" class="box hidden">
-            <h2>Sessione Terminata!</h2>
+            <h2>Sessione di Studio Conclusa</h2>
             <div class="stats">
-                <p>Risposte Corrette (Eliminate): <strong id="stats-correct">0</strong></p>
-                <p>Risposte Errate (Da ripetere): <strong id="stats-wrong">0</strong></p>
+                <p>Quesiti Risolti (Archiviati): <strong id="stats-correct">0</strong></p>
+                <p>Quesiti Errati (Da riesaminare): <strong id="stats-wrong">0</strong></p>
             </div>
-            <p id="result-message">Pronto per il prossimo turno?</p>
-            <button id="restart-btn" class="btn primary">Continua con le Errate</button>
+            <p id="result-message">Pronto per il prossimo turno di addestramento?</p>
+            <button id="restart-btn" class="btn primary">Ricomincia con i Quesiti Errati</button>
         </div>
     </div>
 
